@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **P4ND4P0W3R/P4ND4P0W3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">A CS student at EFREI</h3>
+<h3 align="center">A 3rd year CS student at [EFREI](https://www.efrei.fr/)</h3>
 
 - 🔭 I’m currently working on **a personal website**
 
@@ -26,6 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/paul-hu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paul-hu/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
