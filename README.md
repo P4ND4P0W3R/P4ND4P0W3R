@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a personal website**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and Vue.js**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript/TypeScript and Vue.js**
 
 - 📫 You can reach me at **paul.hu@efrei.net**
 
