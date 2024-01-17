@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">A 3rd year CS student at [EFREI](https://www.efrei.fr/)</h3>
+<h3 align="center">A 3rd year CS student at <a src="https://www.efrei.fr/>EFREI</a></h3>
 
 - 🔭 I’m currently working on **a personal website**
 
