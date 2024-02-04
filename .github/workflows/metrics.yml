@@ -21,7 +21,7 @@ jobs:
           user: P4ND4P0W3R
           template: classic
           base: header, activity, community, repositories, metadata
-          config_order: base.header, introduction, isocalendar, languages
+          config_order: base.header, introduction, trafic, isocalendar, languages
           config_timezone: Europe/Paris
 
           plugin_introduction: yes
@@ -47,6 +47,6 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
 
-          plugin_lines: yes
+          
           
           plugin_traffic: yes
