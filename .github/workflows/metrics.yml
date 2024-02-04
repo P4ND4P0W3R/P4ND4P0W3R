@@ -21,6 +21,7 @@ jobs:
           user: P4ND4P0W3R
           template: classic
           base: header, activity, community, repositories, metadata
+          config_order: base.header, isocalendar, languages
           config_timezone: Europe/Paris
 
           plugin_introduction: yes
