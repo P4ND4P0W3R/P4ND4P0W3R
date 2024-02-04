@@ -21,7 +21,7 @@ jobs:
           user: P4ND4P0W3R
           template: classic
           base: header, activity, community, repositories, metadata
-          config_order: base.header, isocalendar, languages
+          config_order: base.header, introduction, isocalendar, languages
           config_timezone: Europe/Paris
 
           plugin_introduction: yes
@@ -36,7 +36,7 @@ jobs:
           plugin_languages_other: yes
           plugin_languages_colors: github
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
+          plugin_languages_details: percentage, bytes-size
 
           plugin_habits: yes
           plugin_habits_from: 1000
