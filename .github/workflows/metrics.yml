@@ -19,16 +19,9 @@ jobs:
           # Options
           user: P4ND4P0W3R
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: Europe/Paris
 
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_skipped: P4ND4P0W3R
-          plugin_activity_visibility: public
           
           plugin_habits: yes
           plugin_habits_charts: yes
