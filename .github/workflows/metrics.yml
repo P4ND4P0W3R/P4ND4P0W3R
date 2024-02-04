@@ -17,7 +17,7 @@ jobs:
           committer_gist: ${{ secrets.METRICS_GIST }}
 
           # Options
-          user: Rom1-J
+          user: P4ND4P0W3R
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
