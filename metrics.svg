@@ -30,16 +30,16 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -246,14 +246,14 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="131.3002775084423" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="131.3002775084423" y="0" width="89.51151827209202" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="220.8117957805343" y="0" width="63.95533117121936" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="284.76712695175365" y="0" width="39.650272493229465" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="324.41739944498306" y="0" width="36.673910862950954" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="361.09131030793407" y="0" width="32.93323080009362" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="394.0245411080277" y="0" width="30.13875422113745" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="424.1632953291651" y="0" width="35.83670467083487" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="131.46730943055138" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="131.46730943055138" y="0" width="89.62538917344581" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="221.09269860399718" y="0" width="63.63094640286565" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="284.7236450068628" y="0" width="39.70071306618459" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="324.4243580730474" y="0" width="36.72056509658197" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="361.14492316962935" y="0" width="32.97512637675337" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="394.12004954638275" y="0" width="29.99765659000368" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="424.1177061363864" y="0" width="35.88229386361354" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -266,7 +266,7 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                             </div>
                             <small>
                                 <div>196 kB</div>
-                                <div>28.54%</div>
+                                <div>28.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -277,8 +277,8 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                                 CSS
                             </div>
                             <small>
-                                <div>95.6 kB</div>
-                                <div>13.9%</div>
+                                <div>95 kB</div>
+                                <div>13.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -290,7 +290,7 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                             </div>
                             <small>
                                 <div>54.8 kB</div>
-                                <div>7.97%</div>
+                                <div>7.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -301,8 +301,8 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                                 TypeScript
                             </div>
                             <small>
-                                <div>45 kB</div>
-                                <div>6.55%</div>
+                                <div>44.8 kB</div>
+                                <div>6.52%</div>
                             </small>
                         </div>
                     </section>
@@ -316,7 +316,7 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                             </div>
                             <small>
                                 <div>133 kB</div>
-                                <div>19.46%</div>
+                                <div>19.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -328,7 +328,7 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                             </div>
                             <small>
                                 <div>59.3 kB</div>
-                                <div>8.62%</div>
+                                <div>8.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -340,7 +340,7 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                             </div>
                             <small>
                                 <div>49.2 kB</div>
-                                <div>7.16%</div>
+                                <div>7.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -352,7 +352,7 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                             </div>
                             <small>
                                 <div>53.5 kB</div>
-                                <div>7.79%</div>
+                                <div>7.8%</div>
                             </small>
                         </div>
                     </section>
@@ -2372,6 +2372,11 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2382,12 +2387,12 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 94 commits)</small>
+                    <small class="h-details">(computed from last 92 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 36.1 characters per line of code written</li>
+                        <li>Has approximately 36.4 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -2503,13 +2508,13 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             21
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             22
                         </div>
                         <div class="entry">
@@ -2544,8 +2549,8 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">2</span>
-                                <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -2569,7 +2574,7 @@ Besides being a programmer, I am a Formula One enthusiast, custom keyboard afici
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2024, 02:02:29 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Feb 2024, 02:06:58 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
