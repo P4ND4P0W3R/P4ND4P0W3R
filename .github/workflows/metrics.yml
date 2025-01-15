@@ -52,3 +52,8 @@ jobs:
 
           plugin_traffic: yes
 
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+
+          plugin_achievements: yes
+
